@@ -8,7 +8,7 @@ from tensorflow.contrib.tensorboard.plugins import projector
 from tqdm import tqdm
 
 
-# The code below is mostly from `https://www.tensorflow.org/programmers_guide/embedding`.
+# The src below is mostly from `https://www.tensorflow.org/programmers_guide/embedding`.
 
 def prepare_embeddings_for_tensorboard(embeddings_path: str, log_dir: str,
                                        token_filter: Optional[set] = None):
