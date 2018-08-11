@@ -1,0 +1,8 @@
+*.pyc
+*.npy
+Data/
+GloVe/
+.git
+Trained Model/
+.idea/
+vcs.xml
